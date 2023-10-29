@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Main {
-    //create main method
+
     public static void main(String[] args) {
         College college = new College("HAYAT");
         Scanner sc = new Scanner(System.in);
